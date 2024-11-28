@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Korzher
 - 👀 I’m interested in classic literature, movies and korean pop music 
-- 🌱 I’m currently learning JS
+- 🌱 I’m improving in JS
 - 💞️ I’m looking to collaborate on nothing rn
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've started learning JS in April 2024 
