@@ -3,7 +3,9 @@
 - 🌱 I’m improving in JS
 - 💞️ I’m looking to collaborate on nothing rn
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've started learning JS in April 2024 
+- ⚡ Fun fact: I've started learning JS in April 2024
+- My LeetCode: https://leetcode.com/u/korzher/
+- My CodeWars: https://www.codewars.com/users/Korzher
 
 <!---
 Korzher/Korzher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
