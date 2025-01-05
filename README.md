@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Korzher
 - 👀 I’m interested in classic literature, movies and korean pop music 
-- 🌱 I’m improving in JS
+- 🌱 I’m improving in react
 - 💞️ I’m looking to collaborate on nothing rn
 - 😄 Pronouns: He/Him
 - My LeetCode: https://leetcode.com/u/korzher/
